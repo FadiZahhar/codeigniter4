@@ -50,7 +50,7 @@
 #--------------------------------------------------------------------
 
 database.default.hostname = localhost
-database.default.database = ci4
+database.default.database = inventory_system
 database.default.username = root
 database.default.password = ZmpEsHSdziP1
 database.default.DBDriver = MySQLi
