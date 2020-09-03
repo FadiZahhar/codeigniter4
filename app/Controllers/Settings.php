@@ -1,10 +1,12 @@
 <?php namespace App\Controllers;
 
-class Home extends BaseController
+class Settings extends BaseController
 {
 	public function index()
 	{
-		return view('welcome_message');
+		
+		echo "this is a sample message from settings controller";
+		//return view('welcome_message');
 	}
 
 	//--------------------------------------------------------------------
